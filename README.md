@@ -42,7 +42,7 @@ Follow these steps to get the project up and running:
 
 ## Demo
 
-After running the development server, you can see the working demo by opening your browser and navigating to `http://localhost:8081`.
+After running the development server, you can see the working demo by opening your browser and navigating to `http://localhost:3000`.
 
 ---
 
